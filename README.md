@@ -48,6 +48,7 @@ This repository serves as:
 ## Notes
 
 Some materials were originally created for academic submissions and are intentionally retained to reflect the learning process and progression.
+See `roadmap.md` for a detailed, RPS-aligned learning plan.
 
 ## License
 
